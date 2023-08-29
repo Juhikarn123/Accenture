@@ -9,11 +9,17 @@ please do refresh on the following topics
 The total number of approximate questions from each topic is given for your fast reference.
 You are needed to answer 90 MCQs in 90 minutes and then you need to solve two basic coding questions in 45 minutes.
 Abstract Reasoning Syllabus
+
+
+
+
 •	Number & Letter series
 •	Odd man out
 •	Analogies
 •	Coding-Decoding
 •	Visual reasoning
+
+
 Critical Reasoning & Problem Solving Syllabus
 •	Data arrangement
 •	Flow charts
@@ -21,6 +27,9 @@ Critical Reasoning & Problem Solving Syllabus
 •	Argument & Assumption
 •	Syllogism
 •Statement-Conclusion
+
+
+
 English Ability Syllabus
 •	Synonyms & Antonyms
 •	Error detection
@@ -28,6 +37,7 @@ English Ability Syllabus
 •	Reading comprehension
 •	Sentence completion/ Fill in the blanks
 •	Sentence improvement
+
 
 Common Applications & MS Office Syllabus
 •	MS Office (Word, PowerPoint, Excel, Outlook)
