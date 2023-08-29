@@ -8,17 +8,14 @@ please do refresh on the following topics
 6.	Networking Security& Cloud (10 Que)
 The total number of approximate questions from each topic is given for your fast reference.
 You are needed to answer 90 MCQs in 90 minutes and then you need to solve two basic coding questions in 45 minutes.
+-----------------------------------------
 Abstract Reasoning Syllabus
-
-
-
-
 •	Number & Letter series
 •	Odd man out
 •	Analogies
 •	Coding-Decoding
 •	Visual reasoning
-
+---------------------------------------------
 
 Critical Reasoning & Problem Solving Syllabus
 •	Data arrangement
@@ -27,7 +24,7 @@ Critical Reasoning & Problem Solving Syllabus
 •	Argument & Assumption
 •	Syllogism
 •Statement-Conclusion
-
+-------------------------------------------------
 
 
 English Ability Syllabus
@@ -37,7 +34,7 @@ English Ability Syllabus
 •	Reading comprehension
 •	Sentence completion/ Fill in the blanks
 •	Sentence improvement
-
+---------------------------------------------------
 
 Common Applications & MS Office Syllabus
 •	MS Office (Word, PowerPoint, Excel, Outlook)
@@ -45,6 +42,7 @@ Common Applications & MS Office Syllabus
 •	Shortcut keys
 •	Command prompt
 •	Working flow of keys
+----------------------------------------------------
 
 Network Security Syllabus
 •	Basics of Networking
@@ -53,6 +51,7 @@ Network Security Syllabus
 •	Network security devices
 •	Attack types
 •	Firewalls
+--------------------------------------------------
 
 Cloud Syllabus
 •	Fundamentals of Cloud Computing
@@ -60,6 +59,7 @@ Cloud Syllabus
 •	Cloud data centers
 •	Cloud service providers
 •	Cloud Service Platforms
+-----------------------------------------------
 
 Pseudocode Syllabus
 •	Programming Fundamentals
@@ -71,7 +71,7 @@ Pseudocode Syllabus
 •	Increment & Decrement Operators
 •	Conditional statements
 •	Basics of Data Structures
-
+--------------------------------------------------
 Coding Syllabus
 •	Basics of Programming
 •	Input & Output Concepts
